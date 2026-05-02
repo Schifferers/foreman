@@ -1,0 +1,12 @@
+[submodule "manager"]
+	path = manager
+	url = git@github.com:Schifferers/foreman-manager.git
+[submodule "nlp"]
+	path = nlp
+	url = git@github.com:Schifferers/foreman-nlp.git
+[submodule "chatbot"]
+	path = chatbot
+	url = git@github.com:Schifferers/foreman-chatbot.git
+[submodule "config"]
+	path = config
+	url = git@github.com:Schifferers/foreman-config.git
